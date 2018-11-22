@@ -1,0 +1,6 @@
+[submodule "Assets/UnityARKitPlugin"]
+	path = Assets/UnityARKitPlugin
+	url = https://bitbucket.org/gradientspace/unityarkitpluginminimal
+[submodule "Assets/ARKitRecorder"]
+	path = Assets/ARKitRecorder
+	url = https://bitbucket.org/gradientspace/arkitrecorder
